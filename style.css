@@ -23,7 +23,7 @@ body {
 }
 
 .background-image {
-    background-image: url('imagens/fundoSimples.jpg');
+    background-image: url('fundoSimples.jpg');
     filter: blur(2px);
     background-position: center;
     background-repeat: no-repeat;

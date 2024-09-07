@@ -35,7 +35,7 @@ function pesquisar() {
                 
             </div> `;
         }
-        else if(dado.periodo.includes(texto) || dado.descricao.includes(texto)){
+        else if((capitalizeFirstLetter(dado.periodo.includes(texto))) || dado.descricao.includes(texto)){
             info += `     
             <div class="item-resultado">
                 <h2>

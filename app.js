@@ -66,7 +66,6 @@ function sortear(){
     <p class="descricao-periodo" id="periodo">${dados[i].periodo}</p>
 
     <p class="descricao-meta" id="descricao">${dados[i].descricao}</p>
-    <img src="imagem-seres/${dado.imagem}" width="500"><br>
     <a target="_blank" id="link" href="${dados[i].link}" class="saiba-mais">saiba mais</a>
 </div> `;
 }

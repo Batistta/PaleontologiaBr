@@ -33,8 +33,6 @@ Se você gosta de programação e quer contribuir para esse projeto, é só segu
 **Observações:**
 
 * **Imagens:** As imagens dos dinossauros estão na pasta "imagem-seres".
-* **Licença:** [Escolha uma licença fácil de entender, como a MIT, e explique brevemente o que ela permite].
-* **Agradecimentos:** Agradeça a quem te ajudou ou inspirou durante a criação do projeto.
 
 **Dica:** Use emojis para deixar o seu README mais divertido e fácil de entender!
 
@@ -43,12 +41,4 @@ Se você gosta de programação e quer contribuir para esse projeto, é só segu
 **Vamos tornar a paleontologia ainda mais divertida!** 
 
 **#dinossauros #paleontologia #programação #HTML #CSS #JavaScript**
-
-**Com este README.md, você terá um guia divertido e informativo para o seu projeto!**
-
-**Observações:**
-
-* **Personalize:** Adapte este README para refletir a sua personalidade e o seu projeto.
-* **Use imagens:** Adicione imagens de dinossauros para deixar o README mais atrativo.
-* **Seja criativo:** Use a sua imaginação para criar um README único e divertido!
 
